@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafa-Leivas
-- 👀 I’m interested in web development and technology.
+- 👀 I’m interested in development fullstack and technology.
 - 🌱 I’m currently learning full stack development and programming.
 - 💞️ I’m looking to collaborate on projects that involve innovative tech solutions.
 - 📫 How to reach me: [rafa.leivas15@gmail.com] or connect with me on LinkedIn.
